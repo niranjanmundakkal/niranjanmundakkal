@@ -5,3 +5,10 @@ I’m a B.Tech Computer Science student with a strong interest in software devel
 I’m currently exploring machine learning, data analysis, and cloud computing using AWS services like EC2. I like building practical projects that solve real-world problems, especially in areas like healthcare impact prediction and system-level computing.
 
 I focus on understanding concepts deeply, writing clean code, and continuously improving my technical skills. I’m always open to learning, collaboration, and new challenges.
+
+
+https://github.com/user-attachments/assets/f731af29-38dc-455a-8f84-9a308d80cd03
+
+
+
+
