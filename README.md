@@ -7,8 +7,6 @@ I’m currently exploring machine learning, data analysis, and cloud computing u
 I focus on understanding concepts deeply, writing clean code, and continuously improving my technical skills. I’m always open to learning, collaboration, and new challenges.
 
 
-https://github.com/user-attachments/assets/f731af29-38dc-455a-8f84-9a308d80cd03
-
 
 
 
