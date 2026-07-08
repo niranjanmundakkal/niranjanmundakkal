@@ -80,20 +80,6 @@
 
 > I’ll keep adding more polished projects here as I build stronger data engineering, ML, and backend systems.
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niranjanmundakkal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanmundakkal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanmundakkal&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
 
 ---
 
