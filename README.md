@@ -69,6 +69,10 @@
 
 ## 📌 Featured Repositories
 
+- 🔹 **ml-drift-retrain-platform**  
+  End-to-end ML drift detection and retraining platform with dataset validation, preprocessing, logging, and pipeline-based workflow design.
+
+
 - 🔹 **ai-study-planner**  
   AI-powered study planning project built using Python.
 
