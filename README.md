@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Niranjan M
+# Hi there, I'm Niranjan M!!
 
 ### Aspiring Data Engineer | Building ML systems, ETL pipelines, and backend applications
 
