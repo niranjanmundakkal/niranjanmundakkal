@@ -10,7 +10,7 @@
   <a href="mailto:niranjanmcvn10b@gmail.com"><img src="https://img.shields.io/badge/Gmail-niranjanmcvn10b%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+VIT+Bhopal;Data+Engineering+%7C+Machine+Learning+%7C+Backend;Building+ETL+Pipelines%2C+ML+Systems%2C+and+Real-World+Projects;Always+learning%2C+building%2C+and+improving+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+VIT+Bhopal;Data+Engineering+%7C+Machine+Learning+%7C+Backend;Building+ETL+Pipelines%2C+ML+Systems%2C+and+Real-World+Projects;Always+learning%2C+building%2C+and+improving!!" alt="Typing SVG" />
 
 </div>
 
