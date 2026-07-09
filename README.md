@@ -70,8 +70,10 @@
 ## 📌 Featured Repositories
 
 - 🔹 **ml-drift-retrain-platform**  
-  End-to-end ML drift detection and retraining platform with dataset validation, preprocessing, logging, and pipeline-based workflow design.
+  End-to-end ML drift detection and retraining platform with schema validation, preprocessing, logging, and modular pipeline components.
 
+- 🔹 **data-engineering-pipeline-patterns**  
+  Collection of reusable data engineering pipeline patterns covering ingestion, validation, auditing, archival, and workflow design concepts.
 
 - 🔹 **ai-study-planner**  
   AI-powered study planning project built using Python.
@@ -79,10 +81,7 @@
 - 🔹 **leetcode-solutions**  
   Structured repository for DSA and coding problem practice in Python.
 
-- 🔹 **RESUME**  
-  Resume and profile documents.
-
-> I’ll keep adding more polished projects here as I build stronger data engineering, ML, and backend systems.
+> I’m currently building more projects in data engineering, machine learning systems, and backend development.
 
 
 ---
